@@ -1,2 +1,1 @@
-# masala-podi
-yo
+# MASALA-winners
