@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -25,3 +26,9 @@ dist-ssr
 .env
 .vercel
 .env*.local
+=======
+venv/
+__pycache__/
+*.pyc
+temp_audio_chk.wav
+>>>>>>> 15c720fbea88469eb3e390e094bd56563524529b
