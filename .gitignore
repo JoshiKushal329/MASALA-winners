@@ -2,4 +2,3 @@ venv/
 __pycache__/
 *.pyc
 temp_audio_chk.wav
-ai_detector_hybrid.pt
